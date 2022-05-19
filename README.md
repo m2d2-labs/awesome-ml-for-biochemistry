@@ -1,9 +1,7 @@
-![banner.jpeg](docs/images/banner.jpeg)
-
 # Awesome ML for Biochemistry
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/stargazers/) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/graphs/contributors/) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) 
 
-Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community).
+Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community). If you are interested in the topics covered in the list, consider joining our [Slack community](https://join.slack.com/t/m2d2group/shared_invite/zt-16w1rjqqs-n81TiK~iB23XbZ0QWMYs~A)!
 
 :heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
 
@@ -37,6 +35,11 @@ _High-quality repositories that make your life easier_
 _High-quality data to use in research projects_
 
 - [Therapeutics Data Commons](https://tdcommons.ai/) - Open source library that makes it easy to access various well-known datasets
+
+## Acknowledgements
+A big thank you to all our contributors: 
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=m2d2-labs/awesome-ml-for-biochemistry)
 
 ## Contact
 This awesome list is maintained by [Sang Truong](mailto:sttruong@cs.stanford.edu) and [Cas Wognum](mailto:cas@valencediscovery.com). If you would be interested in helping to maintain this list, or if there's any questions or remarks, please do not hesistate to reach out.

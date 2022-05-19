@@ -3,7 +3,7 @@
 
 Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community). If you are interested in the topics covered in the list, consider joining our [Slack community](https://join.slack.com/t/m2d2group/shared_invite/zt-16w1rjqqs-n81TiK~iB23XbZ0QWMYs~A)!
 
-:heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out to one of the active maintainer (see [Contact](#contact)) if you would like to assist!
+:heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out to one of the active maintainers (see [Contact](#contact)) if you would like to assist!
 
 ## Table of contents:
 - [Learn](#learn)
@@ -17,7 +17,7 @@ Community-curated resources for research at the intersection of machine learning
 🔴 Assumes state-of-the-art knowledge.</br>
 
 ## Learn
-_High-quality resources to introduce you to - and learn more about - the various intricacies of this young field!_
+_High-quality resources to introduce you to - and learn more about - the various intricacies of this rapidly evolving field!_
 
 ### 💻 Machine Learning
 - 🔵 [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) - An introduction to deep learning targeted at a Cheminformatics audience.

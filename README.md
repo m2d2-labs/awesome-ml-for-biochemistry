@@ -3,7 +3,7 @@
 
 Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community). If you are interested in the topics covered in the list, consider joining our [Slack community](https://join.slack.com/t/m2d2group/shared_invite/zt-16w1rjqqs-n81TiK~iB23XbZ0QWMYs~A)!
 
-:heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
+:heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out to one of the active maintainer (see [Contact](#contact)) if you would like to assist!
 
 
 ## Table of contents:

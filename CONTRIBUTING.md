@@ -7,6 +7,6 @@ If you want to propose any change to this repository, please take note of the fo
 - Use to correct label to indicate whether you are proposing an edit, removal, addition or structural change.
 - Add the new entry to the correct section and in alphabetical order. Each of the sections has a short description to explain its focus.
 - Search the list to ensure that the new entry is not already listed.
-- Each change should be accompanied by an individual pull request. Please follow the provided template!
+- Each change should be accompanied by an individual pull request.
 
 Thank you!

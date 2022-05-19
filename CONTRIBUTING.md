@@ -10,3 +10,16 @@ If you want to propose any change to this repository, please take note of the fo
 - Each change should be accompanied by an individual pull request.
 
 Thank you!
+
+## Requirements to propose a change
+### Addition
+Ensure the new entry is publicly available. 
+
+### Deletion
+TODO 
+
+### Edit
+TODO 
+
+### Structural
+TODO

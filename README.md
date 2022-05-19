@@ -5,21 +5,25 @@ Community-curated resources for research at the intersection of machine learning
 
 :heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out to one of the active maintainer (see [Contact](#contact)) if you would like to assist!
 
-
 ## Table of contents:
 - [Learn](#learn)
 - [Research](#research)
 - [Libraries](#libraries)
 - [Data](#data)
 
+🔵 Assumes no background knowledge in ML or biochemistry.</br>
+🟢 Assumes familiarity with basic concepts and terminology.</br>
+🟡 Assumes familiarity with advanced topics and terminology.</br>
+🔴 Assumes state-of-the-art knowledge.</br>
+
 ## Learn
 _High-quality resources to introduce you to - and learn more about - the various intricacies of this young field!_
 
 ### 💻 Machine Learning
-- [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) - An introduction to deep learning targeted at a Cheminformatics audience.
+- 🔵 [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) - An introduction to deep learning targeted at a Cheminformatics audience.
 
 ### 🧑‍🔬 Chemistry
-- [Practical Cheminformatics With Open Source Software](https://github.com/PatWalters/practical_cheminformatics_tutorials) - A sequence of Jupyter Notebooks to get started with Cheminformatics.
+- 🟢 [Practical Cheminformatics With Open Source Software](https://github.com/PatWalters/practical_cheminformatics_tutorials) - A sequence of Jupyter Notebooks to get started with Cheminformatics.
 
 ## Research
 _High-impact research that everyone should be familiar with_
@@ -29,12 +33,12 @@ _High-impact research that everyone should be familiar with_
 ## Libraries
 _High-quality repositories that make your life easier_
 
-- [Datamol](https://datamol.io/) - A light wrapper around RDKit that provides a Pythonic interface for computational tasks on molecules.
+- 🟡 [Datamol](https://datamol.io/) - A light wrapper around RDKit that provides a Pythonic interface for computational tasks on molecules.
 
 ## Data
 _High-quality data to use in research projects_
 
-- [Therapeutics Data Commons](https://tdcommons.ai/) - Open source library that makes it easy to access various well-known datasets
+- 🟢 [Therapeutics Data Commons](https://tdcommons.ai/) - Open source library that makes it easy to access various well-known datasets
 
 ## Acknowledgements
 A big thank you to all our contributors: 

@@ -1,3 +1,5 @@
+![banner.jpeg](docs/images/banner.jpeg)
+
 # Awesome ML for Biochemistry
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 

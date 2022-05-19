@@ -1,7 +1,7 @@
 # Awesome ML for Biochemistry
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community). Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community).
 
 :heavy_heart_exclamation: We are looking for researchers and practicioners that are interested in helping to maintain this list. Please reach out if you would like to assist (see [Contact](#contact))!
 

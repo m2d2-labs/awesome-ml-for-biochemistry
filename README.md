@@ -33,7 +33,7 @@ _High-impact research that everyone should be familiar with_
 ## Libraries
 _High-quality repositories that make your life easier_
 
-- 🟡 [Datamol](https://datamol.io/) - A light wrapper around RDKit that provides a Pythonic interface for computational tasks on molecules.
+- 🟢 [Datamol](https://datamol.io/) - A light wrapper around RDKit that provides a Pythonic interface for computational tasks on molecules.
 
 ## Data
 _High-quality data to use in research projects_

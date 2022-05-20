@@ -43,7 +43,9 @@ _High-quality data to use in research projects_
 ## Acknowledgements
 A big thank you to all our contributors: 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=m2d2-labs/awesome-ml-for-biochemistry)
+<a href="https://github.com/m2d2-labs/awesome-ml-for-biochemistry/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=m2d2-labs/awesome-ml-for-biochemistry" />
+</a>
 
 ## Contact
 This awesome list is maintained by [Sang Truong](mailto:sttruong@cs.stanford.edu) and [Cas Wognum](mailto:cas@valencediscovery.com). If you would be interested in helping to maintain this list, or if there's any questions or remarks, please do not hesistate to reach out.

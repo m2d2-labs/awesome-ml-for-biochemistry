@@ -27,7 +27,7 @@ _High-quality resources to introduce you to - and learn more about - the various
 - 🔵 [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) - An introduction to deep learning targeted at a Cheminformatics audience.
 
 ### 🧑‍🔬 Chemistry
-- 🔵 [Making Molecules](https://www.makingmolecules.com/) - A series of blog posts on undergraduate-level organic chemsitry.
+- 🔵 [Making Molecules](https://www.makingmolecules.com/) - A series of blog posts on undergraduate-level organic chemistry.
 - 🟢 [Practical Cheminformatics With Open Source Software](https://github.com/PatWalters/practical_cheminformatics_tutorials) - A sequence of Jupyter Notebooks to get started with Cheminformatics.
 
 ## Research

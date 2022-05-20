@@ -9,8 +9,10 @@ If you want to propose any change to this repository, please take note of the fo
 - Search the list to ensure that the new entry is not already listed.
 
 Thank you!
-large_blue_circle Assumes no background knowledge in ML or biochemistry.
-green_circle Assumes familiarity with basic concepts and terminology.
-yellow_circle Assumes familiarity with advanced topics and terminology.
-red_circle Assumes state-of-the-art knowledge.
+
+## Color coding
+:large_blue_circle: Assumes no background knowledge in ML or biochemistry.</br>
+:green_circle: Assumes familiarity with basic concepts and terminology.</br>
+:yellow_circle: Assumes familiarity with advanced topics and terminology.</br>
+:red_circle: Assumes state-of-the-art knowledge.
 

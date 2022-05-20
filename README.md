@@ -27,12 +27,11 @@ _High-quality resources to introduce you to - and learn more about - the various
 - 🔵 [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) - An introduction to deep learning targeted at a Cheminformatics audience.
 
 ### 🧑‍🔬 Chemistry
+- 🔵 [Making Molecules](https://www.makingmolecules.com/) - A series of blog posts on undergraduate-level organic chemsitry.
 - 🟢 [Practical Cheminformatics With Open Source Software](https://github.com/PatWalters/practical_cheminformatics_tutorials) - A sequence of Jupyter Notebooks to get started with Cheminformatics.
 
 ## Research
 _High-impact research that everyone should be familiar with_
-### Books
-### Articles
 
 ## Libraries
 _High-quality repositories that make your life easier_
@@ -42,7 +41,7 @@ _High-quality repositories that make your life easier_
 ## Data
 _High-quality data to use in research projects_
 
-- 🟢 [Therapeutics Data Commons](https://tdcommons.ai/) - Open source library that makes it easy to access various well-known datasets
+- 🟢 [Therapeutics Data Commons](https://tdcommons.ai/) - Open source library that makes it easy to access various well-known, ML-ready datasets.
 
 ## Acknowledgements
 A big thank you to all our contributors: 

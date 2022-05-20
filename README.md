@@ -1,5 +1,9 @@
 # Awesome ML for Biochemistry
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://badgen.net/github/stars/m2d2-labs/awesome-ml-for-biochemistry)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/stargazers/) [![GitHub contributors](https://img.shields.io/github/contributors/m2d2-labs/awesome-ml-for-biochemistry)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/graphs/contributors/) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Slack](https://img.shields.io/badge/Slack-join-green.svg?logo=slack)](https://join.slack.com/t/m2d2group/shared_invite/zt-16w1rjqqs-n81TiK~iB23XbZ0QWMYs~A)
+[![GitHub stars](https://badgen.net/github/stars/m2d2-labs/awesome-ml-for-biochemistry)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/stargazers/) 
+[![GitHub contributors](https://img.shields.io/github/contributors/m2d2-labs/awesome-ml-for-biochemistry)](https://github.com/m2d2-labs/awesome-ml-for-biochemistry/graphs/contributors/) 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) 
 
 Community-curated resources for research at the intersection of machine learning and biochemistry! This is an initiative of the [M2D2 community](#m2d2-community). If you are interested in the topics covered in the list, consider joining our [Slack community](https://join.slack.com/t/m2d2group/shared_invite/zt-16w1rjqqs-n81TiK~iB23XbZ0QWMYs~A)!
 

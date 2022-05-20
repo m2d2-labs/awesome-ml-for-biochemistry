@@ -12,9 +12,9 @@ Thank you!
 
 ## What to add?
 The focus of this awesome list is on the intersection of **machine learning and biochemistry**. Our aim is to provide 
-both newcomers and experienced researchers with an entrypoint to learn, explore and navigate this rapidly evolving field.
+both newcomers and experienced practitioners with an entrypoint to learn, explore and navigate this rapidly evolving field.
 Inevitably, this leads to some overlap with already existing awesome lists, such as for 
-[Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme) and
+[bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme) and
 [cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme). 
 Please be mindful of the particular focus of this list when proposing new additions.
 

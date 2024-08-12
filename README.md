@@ -32,11 +32,18 @@ _High-quality resources to introduce you to - and learn more about - the various
 
 ## Research
 _High-impact research that everyone should be familiar with_
+### Optimal decision making under uncertainty to discovery new drugs
+In drug discovery, chemists and biologists need to decide on which drugs to test next. This is a particularly challenging task because (1) we are uncertainty about the relationship between molecules and their activity and (2) testing a new drug can cost many hours of labors and many dollar of scientific research. Bayesian machine learning algorithms, including Bayesian optimization, active learning, Bayes optimal experimental design, etc., are perfect candidate for these purposes. 
+
+- [Bayesian reaction optimization as a tool for chemical synthesis](https://www.nature.com/articles/s41586-021-03213-y)
+- [ChemBO: Bayesian Optimization of Small Organic Molecules with Synthesizable Recommendations](https://proceedings.mlr.press/v108/korovina20a.html)
+- [Constrained Bayesian optimization for automatic chemical design using variational autoencoders](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04026a)
 
 ## Libraries
 _High-quality repositories that make your life easier_
 
 - 🟢 [Datamol](https://datamol.io/) - A light wrapper around RDKit that provides a Pythonic interface for computational tasks on molecules.
+- [BoTorch](https://botorch.org/) - Efficient framework for experimental design and Bayesian optimization
 
 ## Data
 _High-quality data to use in research projects_
